@@ -7,7 +7,21 @@
         "checkIpCodes":[
             "IN"
         ],
-        "afKey":"",
+        "adjustParams":[
+            
+            {
+                "name":"firstrecharge",
+                "value":"gn4oc3"
+            },
+            {
+                "name":"recharge",
+                "value":"bfzjcp"
+            },
+            {
+                "name":"register",
+                "value":"7mitwq"
+            }
+        ],
         "afFbId":"100529446417944",
         "afFbToken":"39c5bb7ae64f4701d0c869a95a7b55f1"
     },
@@ -18,7 +32,21 @@
         "checkIpCodes":[
             "IN"
         ],
-        "afKey":"",
+        "adjustParams":[
+            
+            {
+                "name":"firstrecharge",
+                "value":"gnhgk0"
+            },
+            {
+                "name":"recharge",
+                "value":"2k418b"
+            },
+            {
+                "name":"register",
+                "value":"i02xdt"
+            }
+        ],
         "afFbId":"829308615522594",
         "afFbToken":"c29f983ae5888f959f5ab20a29fc3d25"
     },
@@ -29,7 +57,21 @@
         "checkIpCodes":[
             "IN"
         ],
-        "afKey":"",
+        "adjustParams":[
+            
+            {
+                "name":"firstrecharge",
+                "value":"euoerm"
+            },
+            {
+                "name":"recharge",
+                "value":"jk7lw8"
+            },
+            {
+                "name":"register",
+                "value":"ycnto0"
+            }
+        ],
         "afFbId":"269052905678234",
         "afFbToken":"1f9423add3abf74c1c3def8768fa0a68"
     }
