@@ -1,1 +1,36 @@
 
+{ 
+    "hanihany":{
+        "aUrl":"https://jebet.vip/?id=23588458",
+        "isToAGame":false,
+        "isAlert":false,
+        "checkIpCodes":[
+            "IN"
+        ],
+        "afKey":"",
+        "afFbId":"100529446417944",
+        "afFbToken":"39c5bb7ae64f4701d0c869a95a7b55f1"
+    },
+    "yongfun":{
+        "aUrl":"https://jebet.vip/?id=23588458",
+        "isToAGame":false,
+        "isAlert":false,
+        "checkIpCodes":[
+            "IN"
+        ],
+        "afKey":"",
+        "afFbId":"829308615522594",
+        "afFbToken":"c29f983ae5888f959f5ab20a29fc3d25"
+    },
+    "shaowwor":{
+        "aUrl":"https://jebet.vip/?id=23588458",
+        "isToAGame":false,
+        "isAlert":false,
+        "checkIpCodes":[
+            "IN"
+        ],
+        "afKey":"",
+        "afFbId":"269052905678234",
+        "afFbToken":"1f9423add3abf74c1c3def8768fa0a68"
+    }
+}
