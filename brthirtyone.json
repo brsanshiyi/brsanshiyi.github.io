@@ -2,7 +2,7 @@
 { 
     "hanihany":{
         "aUrl":"https://jebet.vip/?id=23588458",
-        "isToAGame":false,
+        "isToAGame":true
         "isAlert":false,
         "checkIpCodes":[
             "IN"
@@ -33,7 +33,6 @@
             "IN"
         ],
         "adjustParams":[
-            
             {
                 "name":"firstrecharge",
                 "value":"gnhgk0"
