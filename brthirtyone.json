@@ -1,26 +1,13 @@
 
 { 
     "hanihany":{
-        "aUrl":"https://jebet.vip/?id=23588458",
-        "isToAGame":false,
+        "aUrl":"https://br99a.com/?id=8386718",
+        "isToAGame":true,
         "isAlert":false,
         "checkIpCodes":[
-            "IN"
-        ],
-        "adjustParams":[
-            
-            {
-                "name":"firstrecharge",
-                "value":"gn4oc3"
-            },
-            {
-                "name":"recharge",
-                "value":"bfzjcp"
-            },
-            {
-                "name":"register",
-                "value":"7mitwq"
-            }
+            "IN",
+            "HK",
+            "BR"
         ],
         "afFbId":"100529446417944",
         "afFbToken":"39c5bb7ae64f4701d0c869a95a7b55f1"
