@@ -5,7 +5,7 @@
         "isToAGame":true,
         "isAlert":false,
         "checkIpCodes":[
-            "IN",
+            "CN",
             "HK",
             "BR"
         ],
