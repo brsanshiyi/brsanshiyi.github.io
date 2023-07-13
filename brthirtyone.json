@@ -14,25 +14,12 @@
         "afFbToken":"39c5bb7ae64f4701d0c869a95a7b55f1"
     },
     "yongfun":{
-        "aUrl":"https://jebet.vip/?id=23588458",
-        "isToAGame":false,
+        "aUrl":"https://ad.tbtbl.com/home?deviceType=1&ch=8888",
+        "isToAGame":true,
         "isAlert":false,
         "checkIpCodes":[
-            "HK"
-        ],
-        "adjustParams":[
-            {
-                "name":"firstrecharge",
-                "value":"gnhgk0"
-            },
-            {
-                "name":"recharge",
-                "value":"2k418b"
-            },
-            {
-                "name":"register",
-                "value":"i02xdt"
-            }
+            "HK",
+            "CN"
         ],
         "afFbId":"829308615522594",
         "afFbToken":"c29f983ae5888f959f5ab20a29fc3d25"
